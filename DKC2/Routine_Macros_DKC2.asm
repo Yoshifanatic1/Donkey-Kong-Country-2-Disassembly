@@ -13932,36 +13932,36 @@ DATA_C19942:
 DATA_C19BA2:
 	db $03,$07,$06,$00,$00,$0D,$10,$06,$7A,$5B,$79,$6B,$6A,$55,$89,$68
 	db $79,$7B,$84,$7B,$78,$63,$67,$4D,$68,$45,$67,$55
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Jump21.bin"		; GFXSize = $260
+	incbin "Graphics/DynamicSprites/GFX_Dixie_Land1.bin"		; GFXSize = $260
 
 DATA_C19E1E:
 	db $03,$06,$06,$00,$00,$0C,$10,$06,$7C,$5B,$7B,$6B,$66,$59,$66,$51
 	db $74,$60,$8B,$6A,$79,$79,$83,$78,$79,$71
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Jump22.bin"		; GFXSize = $240
+	incbin "Graphics/DynamicSprites/GFX_Dixie_Land2.bin"		; GFXSize = $240
 
 DATA_C1A078:
 	db $03,$06,$06,$00,$00,$0C,$10,$06,$7E,$5D,$6E,$63,$7E,$6D,$8D,$6D
 	db $66,$62,$68,$6A,$79,$73,$7A,$7B,$82,$7D
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Jump23.bin"		; GFXSize = $240
+	incbin "Graphics/DynamicSprites/GFX_Dixie_Land3.bin"		; GFXSize = $240
 
 DATA_C1A2D2:
 	db $03,$04,$06,$00,$00,$0A,$10,$06,$7F,$60,$79,$70,$6B,$68,$7B,$68
 	db $89,$6E,$8E,$6E,$7A,$60
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Jump24.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Dixie_Land4.bin"		; GFXSize = $200
 
 DATA_C1A4E8:
 	db $03,$05,$06,$00,$00,$0B,$10,$06,$81,$62,$71,$64,$78,$71,$88,$72
 	db $8C,$73,$70,$73,$6A,$6B,$6B,$73
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Jump25.bin"		; GFXSize = $220
+	incbin "Graphics/DynamicSprites/GFX_Dixie_Land5.bin"		; GFXSize = $220
 
 DATA_C1A720:
 	db $03,$04,$06,$00,$00,$0A,$10,$06,$82,$63,$72,$63,$80,$73,$78,$73
 	db $7A,$7B,$70,$73,$6B,$70
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Jump26.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Dixie_Land6.bin"		; GFXSize = $200
 
 DATA_C1A936:
 	db $04,$00,$00,$00,$00,$08,$10,$08,$81,$61,$71,$61,$7F,$71,$70,$71
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Jump27.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Dixie_Land7.bin"		; GFXSize = $200
 
 DATA_C1AB46:
 	db $03,$04,$06,$00,$00,$0A,$10,$06,$7F,$61,$74,$61,$75,$71,$85,$71
@@ -14416,137 +14416,137 @@ DATA_C2603F:
 
 DATA_C261F5:
 	db $00,$02,$00,$00,$00,$02,$00,$00,$78,$64,$82,$65
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Hurt24.bin"		; GFXSize = $40
+	incbin "Graphics/DynamicSprites/GFX_DixieTears_Pose1.bin"		; GFXSize = $40
 
 DATA_C26241:
 	db $00,$04,$00,$00,$00,$04,$00,$00,$74,$64,$86,$65,$86,$6D,$74,$6C
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Hurt25.bin"		; GFXSize = $80
+	incbin "Graphics/DynamicSprites/GFX_DixieTears_Pose2.bin"		; GFXSize = $80
 
 DATA_C262D1:
 	db $00,$03,$00,$00,$00,$03,$00,$00,$70,$63,$8A,$68,$88,$70
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Hurt26.bin"		; GFXSize = $60
+	incbin "Graphics/DynamicSprites/GFX_DixieTears_Pose3.bin"		; GFXSize = $60
 
 DATA_C2633F:
 	db $00,$03,$00,$00,$00,$03,$00,$00,$6E,$64,$8B,$6A,$85,$75
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Hurt27.bin"		; GFXSize = $60
+	incbin "Graphics/DynamicSprites/GFX_DixieTears_Pose4.bin"		; GFXSize = $60
 
 DATA_C263AD:
 	db $00,$03,$00,$00,$00,$03,$00,$00,$6E,$6B,$8B,$6E,$88,$77
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Hurt28.bin"		; GFXSize = $60
+	incbin "Graphics/DynamicSprites/GFX_DixieTears_Pose5.bin"		; GFXSize = $60
 
 DATA_C2641B:
 	db $00,$04,$00,$00,$00,$04,$00,$00,$6C,$6D,$6C,$75,$8C,$71,$8C,$79
-	incbin "Graphics/DynamicSprites/GFX_Dixie_Hurt29.bin"		; GFXSize = $80
+	incbin "Graphics/DynamicSprites/GFX_DixieTears_Pose6.bin"		; GFXSize = $80
 
 DATA_C264AB:
 	db $02,$07,$04,$00,$00,$0B,$10,$04,$76,$6A,$7E,$5C,$82,$74,$85,$6C
 	db $7A,$7A,$76,$62,$81,$7C,$8C,$59,$6F,$5F
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway1.bin"		; GFXSize = $1E0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway1.bin"		; GFXSize = $1E0
 
 DATA_C266A5:
 	db $02,$07,$04,$00,$00,$0B,$10,$04,$76,$6C,$7E,$5C,$82,$74,$84,$6C
 	db $7A,$7C,$76,$64,$81,$7C,$8B,$59,$70,$60
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway2.bin"		; GFXSize = $1E0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway2.bin"		; GFXSize = $1E0
 
 DATA_C2689F:
 	db $02,$07,$04,$00,$00,$0B,$10,$04,$77,$6C,$7D,$5C,$83,$74,$84,$6C
 	db $7A,$7C,$76,$64,$80,$7C,$89,$59,$71,$62
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway3.bin"		; GFXSize = $1E0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway3.bin"		; GFXSize = $1E0
 
 DATA_C26A99:
 	db $02,$05,$04,$00,$00,$09,$10,$04,$7B,$6B,$7B,$5B,$78,$73,$74,$6B
 	db $7A,$7B,$74,$63,$82,$7B
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway4.bin"		; GFXSize = $1A0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway4.bin"		; GFXSize = $1A0
 
 DATA_C26C4F:
 	db $02,$05,$04,$00,$00,$09,$10,$04,$7B,$6B,$7A,$5B,$78,$73,$77,$6B
 	db $7A,$7B,$75,$63,$82,$7B
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway5.bin"		; GFXSize = $1A0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway5.bin"		; GFXSize = $1A0
 
 DATA_C26E05:
 	db $02,$05,$04,$00,$00,$09,$10,$04,$7C,$6B,$7A,$5B,$79,$78,$78,$70
 	db $77,$68,$81,$7B,$76,$60
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway6.bin"		; GFXSize = $1A0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway6.bin"		; GFXSize = $1A0
 
 DATA_C26FBB:
 	db $02,$06,$04,$00,$00,$0A,$10,$04,$7B,$6B,$7A,$5B,$77,$73,$77,$6B
 	db $79,$7B,$75,$63,$80,$7B,$75,$5B
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway7.bin"		; GFXSize = $1C0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway7.bin"		; GFXSize = $1C0
 
 DATA_C27193:
 	db $02,$06,$04,$00,$00,$0A,$10,$04,$7B,$6B,$7A,$5B,$76,$73,$76,$6B
 	db $78,$7B,$74,$63,$80,$7B,$74,$5B
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway8.bin"		; GFXSize = $1C0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway8.bin"		; GFXSize = $1C0
 
 DATA_C2736B:
 	db $02,$07,$04,$00,$00,$0B,$10,$04,$7B,$6B,$7A,$5B,$75,$73,$76,$6B
 	db $76,$7B,$77,$63,$7E,$7B,$73,$5B,$82,$7B
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway9.bin"		; GFXSize = $1E0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway9.bin"		; GFXSize = $1E0
 
 DATA_C27565:
 	db $02,$08,$04,$00,$00,$0C,$10,$04,$7B,$6B,$7C,$5B,$77,$73,$75,$6B
 	db $77,$7B,$74,$63,$7F,$7B,$6F,$5B,$6A,$5B,$88,$5B
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway10.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway10.bin"		; GFXSize = $200
 
 DATA_C27781:
 	db $03,$04,$06,$00,$00,$0A,$10,$06,$78,$70,$80,$5B,$70,$61,$87,$6B
 	db $7F,$68,$68,$5E,$8E,$5B
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway11.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway11.bin"		; GFXSize = $200
 
 DATA_C27997:
 	db $02,$08,$04,$00,$00,$0C,$10,$04,$78,$6B,$81,$5B,$87,$6B,$74,$6F
 	db $79,$7B,$7D,$63,$80,$7B,$6F,$67,$6B,$5F,$8E,$57
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway12.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway12.bin"		; GFXSize = $200
 
 DATA_C27BB3:
 	db $02,$08,$04,$00,$00,$0C,$10,$04,$78,$6B,$80,$5B,$86,$6B,$73,$6E
 	db $7A,$7B,$7D,$63,$80,$7B,$6F,$66,$6D,$5E,$8E,$5B
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway13.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway13.bin"		; GFXSize = $200
 
 DATA_C27DCF:
 	db $02,$08,$04,$00,$00,$0C,$10,$04,$78,$6B,$80,$5B,$86,$6B,$73,$6B
 	db $7A,$7B,$7D,$63,$80,$7B,$70,$63,$6F,$5B,$8E,$5B
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway14.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway14.bin"		; GFXSize = $200
 
 DATA_C27FEB:
 	db $02,$08,$04,$00,$00,$0C,$10,$04,$78,$6B,$80,$5B,$86,$6B,$73,$6A
 	db $7A,$7B,$7D,$63,$80,$7B,$73,$62,$72,$5A,$8D,$5B
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway15.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway15.bin"		; GFXSize = $200
 
 DATA_C28207:
 	db $02,$09,$04,$00,$00,$0D,$10,$04,$78,$6B,$80,$5B,$86,$6B,$74,$6A
 	db $7A,$7B,$7D,$63,$80,$7B,$74,$62,$76,$5A,$8D,$58,$74,$52
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway16.bin"		; GFXSize = $220
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway16.bin"		; GFXSize = $220
 
 DATA_C28445:
 	db $03,$04,$06,$00,$00,$0A,$10,$06,$74,$64,$78,$74,$81,$5C,$84,$6C
 	db $79,$5C,$78,$54,$8E,$5C
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway17.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway17.bin"		; GFXSize = $200
 
 DATA_C2865B:
 	db $03,$04,$06,$00,$00,$0A,$10,$06,$75,$64,$79,$74,$81,$5C,$85,$6C
 	db $79,$5C,$7B,$54,$8E,$5C
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway18.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway18.bin"		; GFXSize = $200
 
 DATA_C28871:
 	db $03,$04,$06,$00,$00,$0A,$10,$06,$76,$66,$7A,$74,$80,$5C,$85,$6C
 	db $76,$5E,$76,$56,$8E,$58
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway19.bin"		; GFXSize = $200
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway19.bin"		; GFXSize = $200
 
 DATA_C28A87:
 	db $03,$05,$06,$00,$00,$0B,$10,$06,$76,$64,$7A,$74,$80,$5C,$86,$6C
 	db $78,$74,$74,$5C,$73,$54,$8D,$59
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway20.bin"		; GFXSize = $22
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway20.bin"		; GFXSize = $22
 
 DATA_C28CBF:
 	db $02,$07,$04,$00,$00,$0B,$10,$04,$7E,$60,$7A,$70,$76,$6B,$76,$63
 	db $78,$73,$81,$58,$84,$58,$72,$5B,$8C,$5A
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway21.bin"		; GFXSize = $1E0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway21.bin"		; GFXSize = $1E0
 
 DATA_C28EB9:
 	db $02,$07,$04,$00,$00,$0B,$10,$04,$7E,$60,$7A,$70,$76,$6D,$76,$65
 	db $78,$75,$81,$58,$84,$58,$70,$5D,$8B,$59
-	incbin "Graphics/DynamicSprites/GFX_DiddyIdleSway22.bin"		; GFXSize = $1E0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_IdleSway22.bin"		; GFXSize = $1E0
 
 DATA_C290B3:
 	db $03,$03,$06,$00,$00,$09,$10,$06,$76,$70,$77,$60,$86,$60,$86,$70
@@ -14619,37 +14619,37 @@ DATA_C2AEA3:
 	db $02,$0B,$04,$00,$00,$0F,$10,$04,$7B,$5B,$79,$6B,$80,$7B,$89,$6B
 	db $71,$70,$71,$78,$6F,$80,$6B,$88,$8B,$5B,$8B,$63,$8E,$5B,$80,$53
 	db $8C,$6D
-	incbin "Graphics/DynamicSprites/GFX_Diddy_Jump14.bin"		; GFXSize = $260
+	incbin "Graphics/DynamicSprites/GFX_Diddy_Fall1.bin"		; GFXSize = $260
 
 DATA_C2B125:
 	db $02,$0A,$04,$00,$00,$0E,$10,$04,$7A,$58,$7A,$68,$8A,$57,$8A,$5F
 	db $8A,$67,$7C,$50,$72,$6F,$70,$75,$70,$7D,$70,$85,$7F,$78,$8C,$67
-	incbin "Graphics/DynamicSprites/GFX_Diddy_Jump15.bin"		; GFXSize = $240
+	incbin "Graphics/DynamicSprites/GFX_Diddy_Fall2.bin"		; GFXSize = $240
 
 DATA_C2B385:
 	db $02,$0A,$04,$00,$00,$0E,$10,$04,$79,$58,$79,$68,$85,$70,$71,$6D
 	db $71,$73,$72,$7B,$72,$83,$78,$50,$89,$55,$89,$5D,$89,$65,$7F,$78
-	incbin "Graphics/DynamicSprites/GFX_Diddy_Jump16.bin"		; GFXSize = $240
+	incbin "Graphics/DynamicSprites/GFX_Diddy_Fall3.bin"		; GFXSize = $240
 
 DATA_C2B5E5:
 	db $02,$0A,$04,$00,$00,$0E,$10,$04,$77,$58,$7A,$68,$87,$6A,$75,$50
 	db $85,$53,$87,$5B,$87,$63,$72,$6C,$72,$74,$77,$78,$7F,$78,$87,$72
-	incbin "Graphics/DynamicSprites/GFX_Diddy_Jump17.bin"		; GFXSize = $240
+	incbin "Graphics/DynamicSprites/GFX_Diddy_Fall4.bin"		; GFXSize = $240
 
 DATA_C2B845:
 	db $02,$0A,$04,$00,$00,$0E,$10,$04,$7E,$54,$78,$64,$8B,$64,$70,$67
 	db $70,$6F,$7A,$5C,$88,$64,$85,$6C,$7D,$74,$85,$74,$81,$7C,$70,$77
-	incbin "Graphics/DynamicSprites/GFX_Diddy_Jump18.bin"		; GFXSize = $240
+	incbin "Graphics/DynamicSprites/GFX_Diddy_Fall5.bin"		; GFXSize = $240
 
 DATA_C2BAA5:
 	db $02,$07,$04,$00,$00,$0B,$10,$04,$7E,$5A,$7A,$6A,$72,$6A,$81,$7A
 	db $89,$57,$8A,$66,$8D,$66,$76,$62,$71,$62
-	incbin "Graphics/DynamicSprites/GFX_Diddy_Jump19.bin"		; GFXSize = $1E0
+	incbin "Graphics/DynamicSprites/GFX_Diddy_Land1.bin"		; GFXSize = $1E0
 
 DATA_C2BC9F:
 	db $03,$05,$06,$00,$00,$0B,$10,$06,$83,$5D,$79,$6D,$73,$5D,$8C,$57
 	db $89,$6D,$8E,$6D,$84,$79,$7C,$7D
-	incbin "Graphics/DynamicSprites/GFX_Diddy_Jump20.bin"		; GFXSize = $220
+	incbin "Graphics/DynamicSprites/GFX_Diddy_Land2.bin"		; GFXSize = $220
 
 DATA_C2BED7:
 	db $02,$08,$04,$00,$00,$0C,$10,$04,$77,$5B,$77,$6B,$87,$63,$87,$6B
@@ -15041,15 +15041,15 @@ DATA_C35E0F:
 
 DATA_C3606F:
 	db $00,$03,$00,$00,$00,$03,$00,$00,$78,$7B,$81,$78,$80,$80
-	incbin "Graphics/DynamicSprites/GFX_Diddy_Hurt18.bin"		; GFXSize = $60
+	incbin "Graphics/DynamicSprites/GFX_DiddyStars_Pose1.bin"		; GFXSize = $60
 
 DATA_C360DD:
 	db $00,$03,$00,$00,$00,$03,$00,$00,$78,$7B,$80,$7B,$83,$80
-	incbin "Graphics/DynamicSprites/GFX_Diddy_Hurt19.bin"		; GFXSize = $60
+	incbin "Graphics/DynamicSprites/GFX_DiddyStars_Pose2.bin"		; GFXSize = $60
 
 DATA_C3614B:
 	db $00,$03,$00,$00,$00,$03,$00,$00,$7A,$7B,$7A,$83,$82,$7B
-	incbin "Graphics/DynamicSprites/GFX_Diddy_Hurt20.bin"		; GFXSize = $60
+	incbin "Graphics/DynamicSprites/GFX_DiddyStars_Pose3.bin"		; GFXSize = $60
 
 DATA_C361B9:
 	db $02,$0C,$04,$01,$14,$15,$00,$00,$6C,$69,$7C,$71,$7C,$81,$67,$7B
