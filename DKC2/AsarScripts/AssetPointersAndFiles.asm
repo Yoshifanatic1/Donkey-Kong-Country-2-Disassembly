@@ -194,13 +194,13 @@ DynamicSpriteGFXPointersStart:
 	dl $C19486,$C196C6,GFX_Dixie_Jump18,GFX_Dixie_Jump18End
 	dl $C196E2,$C19942,GFX_Dixie_Jump19,GFX_Dixie_Jump19End
 	dl $C19962,$C19BA2,GFX_Dixie_Jump20,GFX_Dixie_Jump20End
-	dl $C19BBE,$C19E1E,GFX_Dixie_Jump21,GFX_Dixie_Jump21End
-	dl $C19E38,$C1A078,GFX_Dixie_Jump22,GFX_Dixie_Jump22End
-	dl $C1A092,$C1A2D2,GFX_Dixie_Jump23,GFX_Dixie_Jump23End
-	dl $C1A2E8,$C1A4E8,GFX_Dixie_Jump24,GFX_Dixie_Jump24End
-	dl $C1A500,$C1A720,GFX_Dixie_Jump25,GFX_Dixie_Jump25End
-	dl $C1A736,$C1A936,GFX_Dixie_Jump26,GFX_Dixie_Jump26End
-	dl $C1A946,$C1AB46,GFX_Dixie_Jump27,GFX_Dixie_Jump27End
+	dl $C19BBE,$C19E1E,GFX_Dixie_Land1,GFX_Dixie_Land1End
+	dl $C19E38,$C1A078,GFX_Dixie_Land2,GFX_Dixie_Land2End
+	dl $C1A092,$C1A2D2,GFX_Dixie_Land3,GFX_Dixie_Land3End
+	dl $C1A2E8,$C1A4E8,GFX_Dixie_Land4,GFX_Dixie_Land4End
+	dl $C1A500,$C1A720,GFX_Dixie_Land5,GFX_Dixie_Land5End
+	dl $C1A736,$C1A936,GFX_Dixie_Land6,GFX_Dixie_Land6End
+	dl $C1A946,$C1AB46,GFX_Dixie_Land7,GFX_Dixie_Land7End
 	dl $C1AB5C,$C1AD5C,GFX_Dixie_DrinkJuiceBox1,GFX_Dixie_DrinkJuiceBox1End
 	dl $C1AD74,$C1AF34,GFX_Dixie_DrinkJuiceBox2,GFX_Dixie_DrinkJuiceBox2End
 	dl $C1AF4C,$C1B10C,GFX_Dixie_DrinkJuiceBox3,GFX_Dixie_DrinkJuiceBox3End
@@ -288,34 +288,34 @@ DynamicSpriteGFXPointersStart:
 	dl $C25D09,$C25E89,GFX_Dixie_Hurt21,GFX_Dixie_Hurt21End
 	dl $C25E9F,$C2603F,GFX_Dixie_Hurt22,GFX_Dixie_Hurt22End
 	dl $C26055,$C261F5,GFX_Dixie_Hurt23,GFX_Dixie_Hurt23End
-	dl $C26201,$C26241,GFX_Dixie_Hurt24,GFX_Dixie_Hurt24End
-	dl $C26251,$C262D1,GFX_Dixie_Hurt25,GFX_Dixie_Hurt25End
-	dl $C262DF,$C2633F,GFX_Dixie_Hurt26,GFX_Dixie_Hurt26End
-	dl $C2634D,$C263AD,GFX_Dixie_Hurt27,GFX_Dixie_Hurt27End
-	dl $C263BB,$C2641B,GFX_Dixie_Hurt28,GFX_Dixie_Hurt28End
-	dl $C2642B,$C264AB,GFX_Dixie_Hurt29,GFX_Dixie_Hurt29End
-	dl $C264C5,$C266A5,GFX_DiddyIdleSway1,GFX_DiddyIdleSway1End
-	dl $C266BF,$C2689F,GFX_DiddyIdleSway2,GFX_DiddyIdleSway2End
-	dl $C268B9,$C26A99,GFX_DiddyIdleSway3,GFX_DiddyIdleSway3End
-	dl $C26AAF,$C26C4F,GFX_DiddyIdleSway4,GFX_DiddyIdleSway4End
-	dl $C26C65,$C26E05,GFX_DiddyIdleSway5,GFX_DiddyIdleSway5End
-	dl $C26E1B,$C26FBB,GFX_DiddyIdleSway6,GFX_DiddyIdleSway6End
-	dl $C26FD3,$C27193,GFX_DiddyIdleSway7,GFX_DiddyIdleSway7End
-	dl $C271AB,$C2736B,GFX_DiddyIdleSway8,GFX_DiddyIdleSway8End
-	dl $C27385,$C27565,GFX_DiddyIdleSway9,GFX_DiddyIdleSway9End
-	dl $C27581,$C27781,GFX_DiddyIdleSway10,GFX_DiddyIdleSway10End
-	dl $C27797,$C27997,GFX_DiddyIdleSway11,GFX_DiddyIdleSway11End
-	dl $C279B3,$C27BB3,GFX_DiddyIdleSway12,GFX_DiddyIdleSway12End
-	dl $C27BCF,$C27DCF,GFX_DiddyIdleSway13,GFX_DiddyIdleSway13End
-	dl $C27DEB,$C27FEB,GFX_DiddyIdleSway14,GFX_DiddyIdleSway14End
-	dl $C28007,$C28207,GFX_DiddyIdleSway15,GFX_DiddyIdleSway15End
-	dl $C28225,$C28445,GFX_DiddyIdleSway16,GFX_DiddyIdleSway16End
-	dl $C2845B,$C2865B,GFX_DiddyIdleSway17,GFX_DiddyIdleSway17End
-	dl $C28671,$C28871,GFX_DiddyIdleSway18,GFX_DiddyIdleSway18End
-	dl $C28887,$C28A87,GFX_DiddyIdleSway19,GFX_DiddyIdleSway19End
-	dl $C28A9F,$C28CBF,GFX_DiddyIdleSway20,GFX_DiddyIdleSway20End
-	dl $C28CD9,$C28EB9,GFX_DiddyIdleSway21,GFX_DiddyIdleSway21End
-	dl $C28ED3,$C290B3,GFX_DiddyIdleSway22,GFX_DiddyIdleSway22End
+	dl $C26201,$C26241,GFX_DixieTears_Pose1,GFX_DixieTears_Pose1End
+	dl $C26251,$C262D1,GFX_DixieTears_Pose2,GFX_DixieTears_Pose2End
+	dl $C262DF,$C2633F,GFX_DixieTears_Pose3,GFX_DixieTears_Pose3End
+	dl $C2634D,$C263AD,GFX_DixieTears_Pose4,GFX_DixieTears_Pose4End
+	dl $C263BB,$C2641B,GFX_DixieTears_Pose5,GFX_DixieTears_Pose5End
+	dl $C2642B,$C264AB,GFX_DixieTears_Pose6,GFX_DixieTears_Pose6End
+	dl $C264C5,$C266A5,GFX_Diddy_IdleSway1,GFX_Diddy_IdleSway1End
+	dl $C266BF,$C2689F,GFX_Diddy_IdleSway2,GFX_Diddy_IdleSway2End
+	dl $C268B9,$C26A99,GFX_Diddy_IdleSway3,GFX_Diddy_IdleSway3End
+	dl $C26AAF,$C26C4F,GFX_Diddy_IdleSway4,GFX_Diddy_IdleSway4End
+	dl $C26C65,$C26E05,GFX_Diddy_IdleSway5,GFX_Diddy_IdleSway5End
+	dl $C26E1B,$C26FBB,GFX_Diddy_IdleSway6,GFX_Diddy_IdleSway6End
+	dl $C26FD3,$C27193,GFX_Diddy_IdleSway7,GFX_Diddy_IdleSway7End
+	dl $C271AB,$C2736B,GFX_Diddy_IdleSway8,GFX_Diddy_IdleSway8End
+	dl $C27385,$C27565,GFX_Diddy_IdleSway9,GFX_Diddy_IdleSway9End
+	dl $C27581,$C27781,GFX_Diddy_IdleSway10,GFX_Diddy_IdleSway10End
+	dl $C27797,$C27997,GFX_Diddy_IdleSway11,GFX_Diddy_IdleSway11End
+	dl $C279B3,$C27BB3,GFX_Diddy_IdleSway12,GFX_Diddy_IdleSway12End
+	dl $C27BCF,$C27DCF,GFX_Diddy_IdleSway13,GFX_Diddy_IdleSway13End
+	dl $C27DEB,$C27FEB,GFX_Diddy_IdleSway14,GFX_Diddy_IdleSway14End
+	dl $C28007,$C28207,GFX_Diddy_IdleSway15,GFX_Diddy_IdleSway15End
+	dl $C28225,$C28445,GFX_Diddy_IdleSway16,GFX_Diddy_IdleSway16End
+	dl $C2845B,$C2865B,GFX_Diddy_IdleSway17,GFX_Diddy_IdleSway17End
+	dl $C28671,$C28871,GFX_Diddy_IdleSway18,GFX_Diddy_IdleSway18End
+	dl $C28887,$C28A87,GFX_Diddy_IdleSway19,GFX_Diddy_IdleSway19End
+	dl $C28A9F,$C28CBF,GFX_Diddy_IdleSway20,GFX_Diddy_IdleSway20End
+	dl $C28CD9,$C28EB9,GFX_Diddy_IdleSway21,GFX_Diddy_IdleSway21End
+	dl $C28ED3,$C290B3,GFX_Diddy_IdleSway22,GFX_Diddy_IdleSway22End
 	dl $C290C7,$C292A7,GFX_Diddy_Jump1,GFX_Diddy_Jump1End
 	dl $C292C1,$C294A1,GFX_Diddy_Jump2,GFX_Diddy_Jump2End
 	dl $C294B5,$C29695,GFX_Diddy_Jump3,GFX_Diddy_Jump3End
@@ -329,13 +329,13 @@ DynamicSpriteGFXPointersStart:
 	dl $C2A787,$C2A9C7,GFX_Diddy_Jump11,GFX_Diddy_Jump11End
 	dl $C2A9E3,$C2AC43,GFX_Diddy_Jump12,GFX_Diddy_Jump12End
 	dl $C2AC63,$C2AEA3,GFX_Diddy_Jump13,GFX_Diddy_Jump13End
-	dl $C2AEC5,$C2B125,GFX_Diddy_Jump14,GFX_Diddy_Jump14End
-	dl $C2B145,$C2B385,GFX_Diddy_Jump15,GFX_Diddy_Jump15End
-	dl $C2B3A5,$C2B5E5,GFX_Diddy_Jump16,GFX_Diddy_Jump16End
-	dl $C2B605,$C2B845,GFX_Diddy_Jump17,GFX_Diddy_Jump17End
-	dl $C2B865,$C2BAA5,GFX_Diddy_Jump18,GFX_Diddy_Jump18End
-	dl $C2BABF,$C2BC9F,GFX_Diddy_Jump19,GFX_Diddy_Jump19End
-	dl $C2BCB7,$C2BED7,GFX_Diddy_Jump20,GFX_Diddy_Jump20End
+	dl $C2AEC5,$C2B125,GFX_Diddy_Fall1,GFX_Diddy_Fall1End
+	dl $C2B145,$C2B385,GFX_Diddy_Fall2,GFX_Diddy_Fall2End
+	dl $C2B3A5,$C2B5E5,GFX_Diddy_Fall3,GFX_Diddy_Fall3End
+	dl $C2B605,$C2B845,GFX_Diddy_Fall4,GFX_Diddy_Fall4End
+	dl $C2B865,$C2BAA5,GFX_Diddy_Fall5,GFX_Diddy_Fall5End
+	dl $C2BABF,$C2BC9F,GFX_Diddy_Land1,GFX_Diddy_Land1End
+	dl $C2BCB7,$C2BED7,GFX_Diddy_Land2,GFX_Diddy_Land2End
 	dl $C2BEF3,$C2C0F3,GFX_Diddy_Roll1,GFX_Diddy_Roll1End
 	dl $C2C10F,$C2C36F,GFX_Diddy_Roll2,GFX_Diddy_Roll2End
 	dl $C2C389,$C2C5C9,GFX_Diddy_Roll3,GFX_Diddy_Roll3End
@@ -409,9 +409,9 @@ DynamicSpriteGFXPointersStart:
 	dl $C35A77,$C35C37,GFX_Diddy_Hurt15,GFX_Diddy_Hurt15End
 	dl $C35C4F,$C35E0F,GFX_Diddy_Hurt16,GFX_Diddy_Hurt16End
 	dl $C35E2F,$C3606F,GFX_Diddy_Hurt17,GFX_Diddy_Hurt17End
-	dl $C3607D,$C360DD,GFX_Diddy_Hurt18,GFX_Diddy_Hurt18End
-	dl $C360EB,$C3614B,GFX_Diddy_Hurt19,GFX_Diddy_Hurt19End
-	dl $C36159,$C361B9,GFX_Diddy_Hurt20,GFX_Diddy_Hurt20End
+	dl $C3607D,$C360DD,GFX_DiddyStars_Pose1,GFX_DiddyStars_Pose1End
+	dl $C360EB,$C3614B,GFX_DiddyStars_Pose2,GFX_DiddyStars_Pose2End
+	dl $C36159,$C361B9,GFX_DiddyStars_Pose3,GFX_DiddyStars_Pose3End
 	dl $C361DF,$C3647F,GFX_Squitter_Walk1,GFX_Squitter_Walk1End
 	dl $C364A5,$C36745,GFX_Squitter_Walk2,GFX_Squitter_Walk2End
 	dl $C36763,$C369E3,GFX_Squitter_Walk3,GFX_Squitter_Walk3End
@@ -4847,27 +4847,27 @@ GFX_Dixie_Jump19End:
 GFX_Dixie_Jump20:
 	db "GFX_Dixie_Jump20.bin"
 GFX_Dixie_Jump20End:
-GFX_Dixie_Jump21:
-	db "GFX_Dixie_Jump21.bin"
-GFX_Dixie_Jump21End:
-GFX_Dixie_Jump22:
-	db "GFX_Dixie_Jump22.bin"
-GFX_Dixie_Jump22End:
-GFX_Dixie_Jump23:
-	db "GFX_Dixie_Jump23.bin"
-GFX_Dixie_Jump23End:
-GFX_Dixie_Jump24:
-	db "GFX_Dixie_Jump24.bin"
-GFX_Dixie_Jump24End:
-GFX_Dixie_Jump25:
-	db "GFX_Dixie_Jump25.bin"
-GFX_Dixie_Jump25End:
-GFX_Dixie_Jump26:
-	db "GFX_Dixie_Jump26.bin"
-GFX_Dixie_Jump26End:
-GFX_Dixie_Jump27:
-	db "GFX_Dixie_Jump27.bin"
-GFX_Dixie_Jump27End:
+GFX_Dixie_Land1:
+	db "GFX_Dixie_Land1.bin"
+GFX_Dixie_Land1End:
+GFX_Dixie_Land2:
+	db "GFX_Dixie_Land2.bin"
+GFX_Dixie_Land2End:
+GFX_Dixie_Land3:
+	db "GFX_Dixie_Land3.bin"
+GFX_Dixie_Land3End:
+GFX_Dixie_Land4:
+	db "GFX_Dixie_Land4.bin"
+GFX_Dixie_Land4End:
+GFX_Dixie_Land5:
+	db "GFX_Dixie_Land5.bin"
+GFX_Dixie_Land5End:
+GFX_Dixie_Land6:
+	db "GFX_Dixie_Land6.bin"
+GFX_Dixie_Land6End:
+GFX_Dixie_Land7:
+	db "GFX_Dixie_Land7.bin"
+GFX_Dixie_Land7End:
 GFX_Dixie_DrinkJuiceBox1:
 	db "GFX_Dixie_DrinkJuiceBox1.bin"
 GFX_Dixie_DrinkJuiceBox1End:
@@ -5129,90 +5129,90 @@ GFX_Dixie_Hurt22End:
 GFX_Dixie_Hurt23:
 	db "GFX_Dixie_Hurt23.bin"
 GFX_Dixie_Hurt23End:
-GFX_Dixie_Hurt24:
-	db "GFX_Dixie_Hurt24.bin"
-GFX_Dixie_Hurt24End:
-GFX_Dixie_Hurt25:
-	db "GFX_Dixie_Hurt25.bin"
-GFX_Dixie_Hurt25End:
-GFX_Dixie_Hurt26:
-	db "GFX_Dixie_Hurt26.bin"
-GFX_Dixie_Hurt26End:
-GFX_Dixie_Hurt27:
-	db "GFX_Dixie_Hurt27.bin"
-GFX_Dixie_Hurt27End:
-GFX_Dixie_Hurt28:
-	db "GFX_Dixie_Hurt28.bin"
-GFX_Dixie_Hurt28End:
-GFX_Dixie_Hurt29:
-	db "GFX_Dixie_Hurt29.bin"
-GFX_Dixie_Hurt29End:
-GFX_DiddyIdleSway1:
-	db "GFX_DiddyIdleSway1.bin"
-GFX_DiddyIdleSway1End:
-GFX_DiddyIdleSway2:
-	db "GFX_DiddyIdleSway2.bin"
-GFX_DiddyIdleSway2End:
-GFX_DiddyIdleSway3:
-	db "GFX_DiddyIdleSway3.bin"
-GFX_DiddyIdleSway3End:
-GFX_DiddyIdleSway4:
-	db "GFX_DiddyIdleSway4.bin"
-GFX_DiddyIdleSway4End:
-GFX_DiddyIdleSway5:
-	db "GFX_DiddyIdleSway5.bin"
-GFX_DiddyIdleSway5End:
-GFX_DiddyIdleSway6:
-	db "GFX_DiddyIdleSway6.bin"
-GFX_DiddyIdleSway6End:
-GFX_DiddyIdleSway7:
-	db "GFX_DiddyIdleSway7.bin"
-GFX_DiddyIdleSway7End:
-GFX_DiddyIdleSway8:
-	db "GFX_DiddyIdleSway8.bin"
-GFX_DiddyIdleSway8End:
-GFX_DiddyIdleSway9:
-	db "GFX_DiddyIdleSway9.bin"
-GFX_DiddyIdleSway9End:
-GFX_DiddyIdleSway10:
-	db "GFX_DiddyIdleSway10.bin"
-GFX_DiddyIdleSway10End:
-GFX_DiddyIdleSway11:
-	db "GFX_DiddyIdleSway11.bin"
-GFX_DiddyIdleSway11End:
-GFX_DiddyIdleSway12:
-	db "GFX_DiddyIdleSway12.bin"
-GFX_DiddyIdleSway12End:
-GFX_DiddyIdleSway13:
-	db "GFX_DiddyIdleSway13.bin"
-GFX_DiddyIdleSway13End:
-GFX_DiddyIdleSway14:
-	db "GFX_DiddyIdleSway14.bin"
-GFX_DiddyIdleSway14End:
-GFX_DiddyIdleSway15:
-	db "GFX_DiddyIdleSway15.bin"
-GFX_DiddyIdleSway15End:
-GFX_DiddyIdleSway16:
-	db "GFX_DiddyIdleSway16.bin"
-GFX_DiddyIdleSway16End:
-GFX_DiddyIdleSway17:
-	db "GFX_DiddyIdleSway17.bin"
-GFX_DiddyIdleSway17End:
-GFX_DiddyIdleSway18:
-	db "GFX_DiddyIdleSway18.bin"
-GFX_DiddyIdleSway18End:
-GFX_DiddyIdleSway19:
-	db "GFX_DiddyIdleSway19.bin"
-GFX_DiddyIdleSway19End:
-GFX_DiddyIdleSway20:
-	db "GFX_DiddyIdleSway20.bin"
-GFX_DiddyIdleSway20End:
-GFX_DiddyIdleSway21:
-	db "GFX_DiddyIdleSway21.bin"
-GFX_DiddyIdleSway21End:
-GFX_DiddyIdleSway22:
-	db "GFX_DiddyIdleSway22.bin"
-GFX_DiddyIdleSway22End:
+GFX_DixieTears_Pose1:
+	db "GFX_DixieTears_Pose1.bin"
+GFX_DixieTears_Pose1End:
+GFX_DixieTears_Pose2:
+	db "GFX_DixieTears_Pose2.bin"
+GFX_DixieTears_Pose2End:
+GFX_DixieTears_Pose3:
+	db "GFX_DixieTears_Pose3.bin"
+GFX_DixieTears_Pose3End:
+GFX_DixieTears_Pose4:
+	db "GFX_DixieTears_Pose4.bin"
+GFX_DixieTears_Pose4End:
+GFX_DixieTears_Pose5:
+	db "GFX_DixieTears_Pose5.bin"
+GFX_DixieTears_Pose5End:
+GFX_DixieTears_Pose6:
+	db "GFX_DixieTears_Pose6.bin"
+GFX_DixieTears_Pose6End:
+GFX_Diddy_IdleSway1:
+	db "GFX_Diddy_IdleSway1.bin"
+GFX_Diddy_IdleSway1End:
+GFX_Diddy_IdleSway2:
+	db "GFX_Diddy_IdleSway2.bin"
+GFX_Diddy_IdleSway2End:
+GFX_Diddy_IdleSway3:
+	db "GFX_Diddy_IdleSway3.bin"
+GFX_Diddy_IdleSway3End:
+GFX_Diddy_IdleSway4:
+	db "GFX_Diddy_IdleSway4.bin"
+GFX_Diddy_IdleSway4End:
+GFX_Diddy_IdleSway5:
+	db "GFX_Diddy_IdleSway5.bin"
+GFX_Diddy_IdleSway5End:
+GFX_Diddy_IdleSway6:
+	db "GFX_Diddy_IdleSway6.bin"
+GFX_Diddy_IdleSway6End:
+GFX_Diddy_IdleSway7:
+	db "GFX_Diddy_IdleSway7.bin"
+GFX_Diddy_IdleSway7End:
+GFX_Diddy_IdleSway8:
+	db "GFX_Diddy_IdleSway8.bin"
+GFX_Diddy_IdleSway8End:
+GFX_Diddy_IdleSway9:
+	db "GFX_Diddy_IdleSway9.bin"
+GFX_Diddy_IdleSway9End:
+GFX_Diddy_IdleSway10:
+	db "GFX_Diddy_IdleSway10.bin"
+GFX_Diddy_IdleSway10End:
+GFX_Diddy_IdleSway11:
+	db "GFX_Diddy_IdleSway11.bin"
+GFX_Diddy_IdleSway11End:
+GFX_Diddy_IdleSway12:
+	db "GFX_Diddy_IdleSway12.bin"
+GFX_Diddy_IdleSway12End:
+GFX_Diddy_IdleSway13:
+	db "GFX_Diddy_IdleSway13.bin"
+GFX_Diddy_IdleSway13End:
+GFX_Diddy_IdleSway14:
+	db "GFX_Diddy_IdleSway14.bin"
+GFX_Diddy_IdleSway14End:
+GFX_Diddy_IdleSway15:
+	db "GFX_Diddy_IdleSway15.bin"
+GFX_Diddy_IdleSway15End:
+GFX_Diddy_IdleSway16:
+	db "GFX_Diddy_IdleSway16.bin"
+GFX_Diddy_IdleSway16End:
+GFX_Diddy_IdleSway17:
+	db "GFX_Diddy_IdleSway17.bin"
+GFX_Diddy_IdleSway17End:
+GFX_Diddy_IdleSway18:
+	db "GFX_Diddy_IdleSway18.bin"
+GFX_Diddy_IdleSway18End:
+GFX_Diddy_IdleSway19:
+	db "GFX_Diddy_IdleSway19.bin"
+GFX_Diddy_IdleSway19End:
+GFX_Diddy_IdleSway20:
+	db "GFX_Diddy_IdleSway20.bin"
+GFX_Diddy_IdleSway20End:
+GFX_Diddy_IdleSway21:
+	db "GFX_Diddy_IdleSway21.bin"
+GFX_Diddy_IdleSway21End:
+GFX_Diddy_IdleSway22:
+	db "GFX_Diddy_IdleSway22.bin"
+GFX_Diddy_IdleSway22End:
 GFX_Diddy_Jump1:
 	db "GFX_Diddy_Jump1.bin"
 GFX_Diddy_Jump1End:
@@ -5252,27 +5252,27 @@ GFX_Diddy_Jump12End:
 GFX_Diddy_Jump13:
 	db "GFX_Diddy_Jump13.bin"
 GFX_Diddy_Jump13End:
-GFX_Diddy_Jump14:
-	db "GFX_Diddy_Jump14.bin"
-GFX_Diddy_Jump14End:
-GFX_Diddy_Jump15:
-	db "GFX_Diddy_Jump15.bin"
-GFX_Diddy_Jump15End:
-GFX_Diddy_Jump16:
-	db "GFX_Diddy_Jump16.bin"
-GFX_Diddy_Jump16End:
-GFX_Diddy_Jump17:
-	db "GFX_Diddy_Jump17.bin"
-GFX_Diddy_Jump17End:
-GFX_Diddy_Jump18:
-	db "GFX_Diddy_Jump18.bin"
-GFX_Diddy_Jump18End:
-GFX_Diddy_Jump19:
-	db "GFX_Diddy_Jump19.bin"
-GFX_Diddy_Jump19End:
-GFX_Diddy_Jump20:
-	db "GFX_Diddy_Jump20.bin"
-GFX_Diddy_Jump20End:
+GFX_Diddy_Fall1:
+	db "GFX_Diddy_Fall1.bin"
+GFX_Diddy_Fall1End:
+GFX_Diddy_Fall2:
+	db "GFX_Diddy_Fall2.bin"
+GFX_Diddy_Fall2End:
+GFX_Diddy_Fall3:
+	db "GFX_Diddy_Fall3.bin"
+GFX_Diddy_Fall3End:
+GFX_Diddy_Fall4:
+	db "GFX_Diddy_Fall4.bin"
+GFX_Diddy_Fall4End:
+GFX_Diddy_Fall5:
+	db "GFX_Diddy_Fall5.bin"
+GFX_Diddy_Fall5End:
+GFX_Diddy_Land1:
+	db "GFX_Diddy_Land1.bin"
+GFX_Diddy_Land1End:
+GFX_Diddy_Land2:
+	db "GFX_Diddy_Land2.bin"
+GFX_Diddy_Land2End:
 GFX_Diddy_Roll1:
 	db "GFX_Diddy_Roll1.bin"
 GFX_Diddy_Roll1End:
@@ -5492,15 +5492,15 @@ GFX_Diddy_Hurt16End:
 GFX_Diddy_Hurt17:
 	db "GFX_Diddy_Hurt17.bin"
 GFX_Diddy_Hurt17End:
-GFX_Diddy_Hurt18:
-	db "GFX_Diddy_Hurt18.bin"
-GFX_Diddy_Hurt18End:
-GFX_Diddy_Hurt19:
-	db "GFX_Diddy_Hurt19.bin"
-GFX_Diddy_Hurt19End:
-GFX_Diddy_Hurt20:
-	db "GFX_Diddy_Hurt20.bin"
-GFX_Diddy_Hurt20End:
+GFX_DiddyStars_Pose1:
+	db "GFX_DiddyStars_Pose1.bin"
+GFX_DiddyStars_Pose1End:
+GFX_DiddyStars_Pose2:
+	db "GFX_DiddyStars_Pose2.bin"
+GFX_DiddyStars_Pose2End:
+GFX_DiddyStars_Pose3:
+	db "GFX_DiddyStars_Pose3.bin"
+GFX_DiddyStars_Pose3End:
 GFX_Squitter_Walk1:
 	db "GFX_Squitter_Walk1.bin"
 GFX_Squitter_Walk1End:
