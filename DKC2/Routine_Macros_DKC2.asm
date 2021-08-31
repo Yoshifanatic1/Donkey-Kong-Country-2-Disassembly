@@ -15178,22 +15178,22 @@ DATA_C3A027:
 DATA_C3A385:
 	db $02,$07,$04,$00,$00,$0B,$10,$04,$7B,$5A,$7C,$6A,$74,$5A,$74,$62
 	db $74,$6A,$74,$72,$76,$7A,$7C,$7A,$82,$7A
-	incbin "Graphics/DynamicSprites/GFX_Squitter_Jump6.bin"		; GFXSize = $1E0
+	incbin "Graphics/DynamicSprites/GFX_WoodenBox_Idle.bin"		; GFXSize = $1E0
 
 DATA_C3A57F:
 	db $02,$04,$04,$00,$00,$08,$10,$04,$7C,$5B,$7C,$6B,$74,$5D,$74,$65
 	db $74,$6D,$74,$75
-	incbin "Graphics/DynamicSprites/GFX_WoodenBox_Idle.bin"		; GFXSize = $180
+	incbin "Graphics/DynamicSprites/GFX_WoodenBox_Grabbed1.bin"		; GFXSize = $180
 
 DATA_C3A713:
 	db $01,$06,$02,$00,$00,$08,$10,$02,$7D,$60,$75,$60,$75,$68,$75,$70
 	db $7D,$70,$85,$70,$73,$65
-	incbin "Graphics/DynamicSprites/GFX_WoodenBox_Grabbed1.bin"		; GFXSize = $140
+	incbin "Graphics/DynamicSprites/GFX_WoodenBox_Grabbed2.bin"		; GFXSize = $140
 
 DATA_C3A869:
 	db $02,$04,$04,$00,$00,$08,$10,$04,$7B,$5E,$7C,$6E,$73,$5E,$73,$66
 	db $74,$6E,$78,$76
-	incbin "Graphics/DynamicSprites/GFX_WoodenBox_Grabbed2.bin"		; GFXSize = $180
+	incbin "Graphics/DynamicSprites/GFX_WoodenBox_Grabbed3.bin"		; GFXSize = $180
 
 DATA_C3A9FD:
 	db $03,$03,$06,$00,$00,$09,$10,$06,$6D,$4F,$7A,$54,$6E,$5F,$7E,$64

@@ -436,10 +436,10 @@ DynamicSpriteGFXPointersStart:
 	dl $C399A7,$C39CA7,GFX_Squitter_Jump3,GFX_Squitter_Jump3End
 	dl $C39CC7,$C3A027,GFX_Squitter_Jump4,GFX_Squitter_Jump4End
 	dl $C3A045,$C3A385,GFX_Squitter_Jump5,GFX_Squitter_Jump5End
-	dl $C3A39F,$C3A57F,GFX_Squitter_Jump6,GFX_Squitter_Jump6End
-	dl $C3A593,$C3A713,GFX_WoodenBox_Idle,GFX_WoodenBox_IdleEnd
-	dl $C3A729,$C3A869,GFX_WoodenBox_Grabbed1,GFX_WoodenBox_Grabbed1End
-	dl $C3A87D,$C3A9FD,GFX_WoodenBox_Grabbed2,GFX_WoodenBox_Grabbed2End
+	dl $C3A39F,$C3A57F,GFX_WoodenBox_Idle,GFX_WoodenBox_IdleEnd
+	dl $C3A593,$C3A713,GFX_WoodenBox_Grabbed1,GFX_WoodenBox_Grabbed1End
+	dl $C3A729,$C3A869,GFX_WoodenBox_Grabbed2,GFX_WoodenBox_Grabbed2End
+	dl $C3A87D,$C3A9FD,GFX_WoodenBox_Grabbed3,GFX_WoodenBox_Grabbed3End
 	dl $C3AA11,$C3ABF1,GFX_Dixie_SitOnAnimalBuddy1,GFX_Dixie_SitOnAnimalBuddy1End
 	dl $C3AC0B,$C3AE4B,GFX_Dixie_SitOnAnimalBuddy2,GFX_Dixie_SitOnAnimalBuddy2End
 	dl $C3AE61,$C3B061,GFX_Dixie_SitOnAnimalBuddy3,GFX_Dixie_SitOnAnimalBuddy3End
@@ -5573,9 +5573,6 @@ GFX_Squitter_Jump4End:
 GFX_Squitter_Jump5:
 	db "GFX_Squitter_Jump5.bin"
 GFX_Squitter_Jump5End:
-GFX_Squitter_Jump6:
-	db "GFX_Squitter_Jump6.bin"
-GFX_Squitter_Jump6End:
 GFX_WoodenBox_Idle:
 	db "GFX_WoodenBox_Idle.bin"
 GFX_WoodenBox_IdleEnd:
@@ -5585,6 +5582,9 @@ GFX_WoodenBox_Grabbed1End:
 GFX_WoodenBox_Grabbed2:
 	db "GFX_WoodenBox_Grabbed2.bin"
 GFX_WoodenBox_Grabbed2End:
+GFX_WoodenBox_Grabbed3:
+	db "GFX_WoodenBox_Grabbed3.bin"
+GFX_WoodenBox_Grabbed3End:
 GFX_Dixie_SitOnAnimalBuddy1:
 	db "GFX_Dixie_SitOnAnimalBuddy1.bin"
 GFX_Dixie_SitOnAnimalBuddy1End:
